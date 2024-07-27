@@ -1,0 +1,6 @@
+listas/*
+!listas/.gitignore
+/node_modules
+players.json
+oldGerarJson.js
+oldGerarImage.js
